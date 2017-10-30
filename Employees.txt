@@ -1,3 +1,0 @@
-E1,Jim,Bob,Trainer,password
-E2,Lee,Nichols,Manager,Qwerty1
-E4,Jeremiah,Turco,Manager,temp1
