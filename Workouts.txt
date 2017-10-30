@@ -1,3 +1,0 @@
-Dumbells,Dumbell Press*Dumbell Curl*Dumbell Row,5 each,3
-Running,Sprint*Jog*Walk,5 mins each,3
-Bench Press,Bench,5 reps,10
