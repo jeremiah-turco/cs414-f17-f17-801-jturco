@@ -1,5 +1,0 @@
-Dumbells,dumbell.png,2
-Squat Rack,rack.png,4
-Treadmills,treadmill.png,4
-Curling Bar,cBar.png,2
-Bench,bench.png,4
