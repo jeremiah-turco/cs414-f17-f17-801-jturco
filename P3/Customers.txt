@@ -1,0 +1,2 @@
+C1,James,Smith,Dumbells*Running,Full
+C2,John,Doe,Dumbells*Running,Limited
